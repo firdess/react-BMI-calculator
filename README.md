@@ -6,6 +6,10 @@ First, run the development server:
 
 ```bash
 npm run dev
+
+https://github.com/firdess/react-BMI-calculator/assets/106804722/717ed089-40cf-4dc3-8f2f-8f5b1185101d
+
+
 # or
 yarn dev
 # or
