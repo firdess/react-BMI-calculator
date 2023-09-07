@@ -36,3 +36,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+<img width="1428" alt="Screen Shot 2023-09-07 at 22 06 37" src="https://github.c<img width="1428" alt="Screen Shot 2023-09-07 at 22 06 37" src="https://github.com/firdess/react-BMI-calculator/assets/106804722/25ce769c-5ee0-4fc6-af4d-0b9e70a40dfd">
+om/firdess/react-BMI-calculator/assets/106804722/30529d18-c2bb-4c83-a04d-5bde3f30b19e">
